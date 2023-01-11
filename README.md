@@ -13,7 +13,7 @@ Creating an Arcade Game in Unity, here is the documentation about the process, r
 
 ![Background](https://user-images.githubusercontent.com/114673717/211805696-6c8bb6e6-3ca3-43c8-bf1f-604c0a149d6b.png)
 
-3.) Creating the player movement and jump as the basic character controllers. Player is allowed to move the character with A and D, and jump by pressing Spacebar. Also, I added a double jump feature that allows the player to double jump if the character is not on the ground. Here's the example and portion of the code.
+3.) Creating the player movement and jump as the basic character controllers, adding PolygonCollider and Rigidbody2D. Player is allowed to move the character with A and D, and jump by pressing Spacebar. Also, I added a double jump feature that allows the player to double jump if the character is not on the ground. Here's the example and portion of the code.
 
 ![aprite3](https://user-images.githubusercontent.com/114673717/211806363-fe2b0576-3d23-48c7-abd2-e5f196e0df7e.gif)
 
