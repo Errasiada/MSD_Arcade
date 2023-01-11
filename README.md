@@ -19,11 +19,14 @@ Creating an Arcade Game in Unity, here is the documentation about the process, r
 
 4.) Adding a Bird spawner. For the enemies I created an item spawner that will drop the birds sprites in three different locations in the *y*
 
+![aprite4](https://user-images.githubusercontent.com/114673717/211806879-d974be88-4712-4890-b7b6-6ca96eb5ddd6.gif)
+
 5.) Adding a Item spawner. Similar to the bird spawner, but with the Star collectibles. Added yellow shiny sparkles as particles when the item is collected.
 
-![aprite4](https://user-images.githubusercontent.com/114673717/211806879-d974be88-4712-4890-b7b6-6ca96eb5ddd6.gif)
+![star](https://user-images.githubusercontent.com/114673717/211833346-a5af015d-52cb-40a6-99fc-bc27e4949966.gif)
 
 
 6.) Adding an HP system. The player looses one heart after being hit, when hit multiple times and losing all the hearts it's a Game Over.
 
+![endgame](https://user-images.githubusercontent.com/114673717/211833067-dd0ff7e6-df2b-4905-a1ce-9d646e37cd33.gif)
 
