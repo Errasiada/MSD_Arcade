@@ -4,7 +4,7 @@
 
 Creating an Arcade Game in Unity, here is the documentation about the process, results and code used during the development.
 
-1.) Creating a character sprite for the player. The main character is Moñeco, a basic 2D Sprite in charge of collecting Star items and avoiding the Birds.
+1.) Creating a character sprite for the player named "Moñeco" with an Idle animation.
 
 ![MoñecoIdle-export](https://user-images.githubusercontent.com/114673717/211805613-4ef4a610-9be1-4760-ac3a-91cd88425201.gif)
 
